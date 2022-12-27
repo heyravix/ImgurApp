@@ -1,4 +1,0 @@
-# ImgurApp
-#ii
-#sd
-$sd
