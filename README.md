@@ -10,8 +10,8 @@ Browse and search for images on Imgur
 Switch between a list and grid view
 
 ## Dependencies
-Imgur API: To fetch the images from Imgur
-Glide: To display the images in a list or grid view
+- Imgur API: To fetch the images from Imgur
+- Glide: To display the images in a list or grid view
 
 ## Installation
 
