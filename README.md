@@ -12,7 +12,9 @@ Switch between a list and grid view
 ## Dependencies
 Imgur API: To fetch the images from Imgur
 Glide: To display the images in a list or grid view
-Installation
+
+## Installation
+
 To install the app, download the APK file from the release section and install it on your Android device.
 
 ## Usage
@@ -22,14 +24,10 @@ Use the switch button to toggle between the list and grid view
 
 ## Prerequisites
 
-What things you need to install the software and how to install them. For example:
-
 - Java
 - Android Studio
 
 ## Installing
-
-A step by step series of examples that tell you how to get the development environment running.
 
 1. Clone the repository to your local machine.
 2. Open Android Studio.
